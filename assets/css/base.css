@@ -1,0 +1,10 @@
+@import url('global.css');
+
+html, body, header {
+    background-color: var(--kanagawa-dark-purple);
+    color: var(--kanagawa-cream);
+}
+
+nav.navbar {
+    background-color: var(--kanagawa-cream);
+}

@@ -1,0 +1,5 @@
+@import url('global.css');
+
+div, #header {
+    color: var(--kanagawa-cream);
+}
