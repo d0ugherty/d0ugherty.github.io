@@ -63,9 +63,9 @@
 .ibm-plex-mono-regular ul,
 .ibm-plex-mono-regular li {
     font-family: "IBM Plex Mono", monospace;
-    font-weight: 400; /* Regular */
+    font-weight: 400; 
     font-size: 1rem;
-    line-height: 1.6; /* Improves readability */
+    line-height: 1.6; 
 }
 
 .ibm-plex-mono-thin-italic {
