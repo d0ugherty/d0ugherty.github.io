@@ -3,6 +3,7 @@
 html, body, header {
     background-color: var(--kanagawa-dark-purple);
     color: var(--kanagawa-cream);
+    font-family: ibm-plex-mono-medium;
 }
 
 nav.navbar {
