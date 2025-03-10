@@ -1,6 +1,6 @@
 @import url('global.css');
 
-html, body, header {
+html, body {
     background-color: var(--kanagawa-dark-purple);
     color: var(--kanagawa-cream);
     font-family: ibm-plex-mono-medium;
@@ -13,6 +13,8 @@ header {
     width: 100%;
     position: fixed;
     margin-bottom:2rem;
+    font-family: ibm-plex-mono-medium;
+
 }
 
 nav {
