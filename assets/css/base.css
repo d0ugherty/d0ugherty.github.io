@@ -11,7 +11,7 @@ header {
     justify-content: center;
     align-items: center; 
     width: 100%;
-    margin-bottom:2rem;
+    position: fixed;
     font-family: ibm-plex-mono-medium;
 
 }
