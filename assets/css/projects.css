@@ -15,7 +15,7 @@
 
 #project-card {
     background-color: var(--kanagawa-dark-gray); 
-    border: 2px solid var(--kanagawa-mountain-brown);
+    border: 2px solid var(--kanagawa-cream);
     padding: 20px;
     width: 350px;
     text-align: center;
@@ -39,3 +39,12 @@
     color: var(--kanagawa-cream); 
 }
 
+.ibm-plex-mono-regular ul,
+.ibm-plex-mono-regular li {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400; 
+    font-size: 11pt;
+    color: var(--kanagawa-foam-white); 
+    line-height: 1.6; 
+    margin-bottom: 1.0rem;
+}
