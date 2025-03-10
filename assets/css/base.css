@@ -24,6 +24,13 @@ nav {
     gap: 20px; 
 }
 
+nav a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: var(--kanagawa-wave-blue);
+
+    padding: 10px 15px;
+}
 
 .nav-link {
     color: var(--kanagawa-wave-blue);
@@ -32,6 +39,6 @@ nav {
     margin-left: 3rem;
 }
 
-.nav-link:hover {
+.nav a :hover {
     color: var(--kanagawa-wave-light-blue)
 }
