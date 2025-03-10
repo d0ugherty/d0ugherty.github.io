@@ -64,7 +64,8 @@
 .ibm-plex-mono-regular li {
     font-family: "IBM Plex Mono", monospace;
     font-weight: 400; 
-    font-size: 1rem;
+    font-size: 11pt;
+    color: var(--kanagawa-foam-white); 
     line-height: 1.6; 
 }
 

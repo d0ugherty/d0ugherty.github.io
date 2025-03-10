@@ -39,21 +39,3 @@
     color: var(--kanagawa-cream); 
 }
 
-#project-card p {
-    font-family: "IBM Plex Mono", monospace;
-    font-weight: 400; 
-    font-size: .5rem;
-    color: var(--kanagawa-foam-white); 
-    max-width: 300px;
-    margin: 0 auto;
-}
-
-#project-card ul {
-    font-size: 0.7rem; 
-    line-height: 1.4; 
-    padding-left: 20px; 
-}
-
-#project-card ul li {
-    margin-bottom: 8px; 
-}
