@@ -12,15 +12,16 @@ nav.navbar {
 
 header {
     display: flex;
-    justify-content: center; /* Centers navbar horizontally */
-    align-items: center; /* Centers items vertically */
+    justify-content: center; 
+    align-items: center; 
     width: 100%;
-    position: fixed; /* Keeps it at the top */
+    position: fixed;
+    margin-bottom:2rem;
 }
 
 nav {
     display: flex;
-    gap: 20px; /* Space between links */
+    gap: 20px; 
 }
 
 nav a {
@@ -28,4 +29,15 @@ nav a {
     font-size: 1.2rem;
     color: black;
     padding: 10px 15px;
+}
+
+.nav-link {
+    color: var(--kanagawa-wave-blue);
+    transition: color 0.3s ease;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+.nav-link:hover {
+    color: var(--kanagawa-wave-light-blue)
 }
