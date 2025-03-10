@@ -16,11 +16,6 @@ header {
     align-items: center; /* Centers items vertically */
     width: 100%;
     position: fixed; /* Keeps it at the top */
-    top: 0;
-    left: 0;
-    height: 60px; /* Adjust height as needed */
-    background-color: #f8f9fa; /* Optional: Background color */
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Subtle shadow */
 }
 
 nav {
