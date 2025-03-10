@@ -42,7 +42,7 @@
 #project-card p {
     font-family: "IBM Plex Mono", monospace;
     font-weight: 400; 
-    font-size: .8rem;
+    font-size: .5rem;
     color: var(--kanagawa-foam-white); 
     max-width: 300px;
     margin: 0 auto;
